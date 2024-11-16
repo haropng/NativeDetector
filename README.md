@@ -1,1 +1,1 @@
-Some Android environment detection examples
+Applicable to Android detection environment
